@@ -1,6 +1,6 @@
 # Hi, I’m Vikrant! 👋
 
-I’m a professional Android developer by day and a passionate web developer by night. With strong skills in Java, Kotlin, Python, and Next.js, I’m on a journey to become a freelance full-stack developer, crafting modern web experiences using React, Tailwind CSS, and Framer Motion.
+I’m a professional Android developer working in Automotive domain for my day job and a passionate web developer, which started out as a hobby. With strong skills in Java, Kotlin, Python, and Next.js, I’m on a journey to become a freelance full-stack developer, crafting modern web experiences using React, Tailwind CSS, and Framer Motion.
 
 ---
 
