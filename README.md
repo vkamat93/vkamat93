@@ -6,7 +6,7 @@ I’m a professional Android developer working in Automotive domain for my day j
 
 ## 🚀 What I Do
 
-- **Android Development:** Solid experience building robust mobile apps with Java and Kotlin.
+- **Android Development:** Solid experience building robust mobile apps with Java/Kotlin and React Native.
 - **Web Development:** Hobbyist-turned-pro with Next.js, React, and the latest UI/UX trends.
 - **UI/UX:** I design and develop sleek, modern websites with Tailwind CSS and Framer Motion.
 
