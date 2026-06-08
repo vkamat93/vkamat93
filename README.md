@@ -1,25 +1,76 @@
-# Hi, I’m Vikrant! 👋
+# Hi, I'm Vikrant 👋
 
-I’m a professional Android developer working in Automotive domain for my day job and a passionate web developer, which started out as a hobby. With strong skills in Java, Kotlin, Python, and Next.js, I’m on a journey to become a freelance full-stack developer, crafting modern web experiences using React, Tailwind CSS, and Framer Motion.
-
----
-
-## 🚀 What I Do
-
-- **Android Development:** Solid experience building robust mobile apps with Java/Kotlin and React Native.
-- **Web Development:** Hobbyist-turned-pro with Next.js, React, and the latest UI/UX trends.
-- **UI/UX:** I design and develop sleek, modern websites with Tailwind CSS and Framer Motion.
+I'm a Software Engineer and a Product Owner with a background in Cross platform App/Website development, currently focused on building AI-powered applications, backend systems, and intelligent agents.
+My recent work centers around Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Agentic AI workflows, and scalable backend services. I enjoy exploring how AI can be integrated into real-world products to automate workflows, improve user experiences, and solve practical business problems.
 
 ---
 
-## 💼 Let’s Work Together
+## 🚀 Current Areas of Interest
 
-I specialize in building sleek, modern websites for businesses—delivering quality at affordable, competitive rates.  
-If you’re looking to take your business online, let’s connect!
+- Agentic AI & Autonomous Workflows
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- AI Assistants & Multi-Agent Systems
+- Backend Engineering
+- LangChain & PydanticAI
+- Vector Databases & Semantic Search
+- API Design & System Integration
+- Cloud-Native Applications
+
+---
+
+## 🛠️ Tech Stack
+
+# Languages
+
+- Python
+- Kotlin
+- JavaScript / TypeScript
+
+# AI & Backend
+
+- LangChain
+- PydanticAI
+- MongoDB Vector Search
+- FastAPI
+- REST APIs
+
+# Databases
+
+- MongoDB
+- PostgreSQL
+- SQLite
+
+# Frontend
+
+- Next.js
+- React
+- Tailwind CSS
+
+---
+
+## 📚 Currently Exploring
+
+- Advanced Agent Architectures
+- Production-Grade RAG Systems
+- MCP Servers & AI Tooling
+- AI Evaluation & Observability
+- Scalable AI Infrastructure
+
+
+---
+
+## 🏆 Certifications
+
+- MongoDB — Building RAG Apps Using MongoDB
+
+---
+
+## 📫 Connect With Me
 
 - 📫 [LinkedIn](https://in.linkedin.com/in/vikrant-kamat-796a0165)
 - 💡 [See my work and projects below!](#)
 
 ---
 
-_“Sleek modern websites for your business at competitive rates.”_
+_“Building practical AI systems that bridge the gap between intelligent models and real-world applications.”_
